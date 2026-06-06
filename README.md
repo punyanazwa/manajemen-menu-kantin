@@ -4,7 +4,7 @@ Projek aplikasi berbasis web menggunakan Framework Laravel untuk mengelola menu 
 
 ---
 
-## 🚀 Fitur
+## Fitur
 - Login dan logout memakai session.
 - Register penjual kantin.
 - Password disimpan memakai `password_hash()`.
@@ -17,7 +17,7 @@ Projek aplikasi berbasis web menggunakan Framework Laravel untuk mengelola menu 
 
 ---
 
-### 🔑 Akun Testing
+### Akun Testing
 Gunakan 2 akun ini untuk menguji bahwa data penjualan A tidak sama dengan B:
 
 **Akun 1:**
