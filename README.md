@@ -29,7 +29,7 @@ Gunakan 2 akun ini untuk menguji bahwa data penjualan A tidak sama dengan B:
 * Password: `zulfa123`
 
 
-## 🛠️ Cara Menjalankan Projek
+## Cara Menjalankan Projek
 ### 1. Clone Repository
 Unduh projek ini ke komputer Anda dengan perintah:
 ```bash
